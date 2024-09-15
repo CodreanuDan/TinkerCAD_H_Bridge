@@ -22,12 +22,5 @@ This project demonstrates an H-Bridge circuit created with NPN BJT transistors i
 - **Speed Adjustment**: Fine-tune the motor speed using the potentiometer.
 - **Visual Feedback**: LEDs provide immediate visual feedback on the motor's rotation direction and speed.
 
-## 📘 Why Use an H-Bridge?
-An H-Bridge circuit is a simple yet powerful solution for controlling DC motors. It allows for both direction and speed control by selectively switching the transistors on and off. This is particularly useful in robotics, automotive systems, and other applications where precise motor control is needed.
 
-Feel free to tinker with the circuit in TinkerCAD and experiment with different configurations to better understand the principles of an H-Bridge!
-
----
-
-Happy building! 😊
 
