@@ -22,5 +22,8 @@ This project demonstrates an H-Bridge circuit created with NPN BJT transistors i
 - **Speed Adjustment**: Fine-tune the motor speed using the potentiometer.
 - **Visual Feedback**: LEDs provide immediate visual feedback on the motor's rotation direction and speed.
 
+## ⚙️ Rotation with positive RPM:
+![OneWay](https://github.com/user-attachments/assets/80721791-e802-4d40-8de8-d4cbe2bf6922)
 
-
+## ⚙️ Rotation with negative RPM:
+![OtherWay](https://github.com/user-attachments/assets/eabf2178-c16a-485d-9707-0618f46a81cc)
